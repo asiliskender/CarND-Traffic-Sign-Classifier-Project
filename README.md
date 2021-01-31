@@ -35,7 +35,6 @@ For each label in the training set, the following figure shows one example pictu
 
 ![alt text][labels_with_examples]
 
-An exploratory visualization of the data collection is here. It is a bar chart that indicates how many samples per label are found in the training package.
 
 
 ### Design and Test a Model Architecture
@@ -68,12 +67,13 @@ Final results were:
 
 ### Test a Model on New Images
 #### 1. Acquiring New Images
-Here are some German traffic signs I find on the internet:![alt text][traffic_signs_orig]
+Here are some German traffic signs I find on the internet:
+![alt text][traffic_signs_orig]
 
 #### 2. Performance on New Images
 Results:
 
-![alt text][traffic_signs_prediction]
+![alt text][traffic_signs_orig]
 
 The algorithm was able to accurately guess 5 of the 5 road signals, offering 100 percent precision.
 
